@@ -1,4 +1,4 @@
-# Development
+# Production
 
 Code reads input from two text files into arrays, then merges the two arrays and writes the output to a text file.
 Input text files names: Input1.txt, Input2.txt
